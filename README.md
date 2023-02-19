@@ -1,2 +1,2 @@
 # VimSurf
-A extensão "Vim Navigator" para Firefox permite navegar por páginas usando as teclas de navegação do Vim. Use "hjkl" para mover o cursor e "f" para abrir links. Navegue mais rápido e eficientemente.
+The "Vim Navigator" extension allows you to navigate pages using Vim's navigation keys. Use "hjkl" to move the cursor and "f" to open links. Navigate faster and more efficiently.
